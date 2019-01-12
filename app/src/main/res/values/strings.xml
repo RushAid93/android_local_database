@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_title">Simple Local DB</string>
+
+    <string name="et_insert_name">Insert name here</string>
+    <string name="et_insert_age">Insert age here</string>
+
+    <string name="button_add">Add</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_view_all">View</string>
+</resources>
